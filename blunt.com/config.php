@@ -1,6 +1,5 @@
 <?php 
 
-
 require 'Paypal/autoload.php';
 
 define('URL_SITIO', 'http://localhost/blunt.com');
